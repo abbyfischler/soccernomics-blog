@@ -1,6 +1,6 @@
 ---
 name: Abby Fischler
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.jpg
 email: afischl97@geffenacademy.ucla.edu
 linkedin: https://www.linkedin.com/in/abby-fischler-27a90324a/
 github: https://github.com/abbyfischler
