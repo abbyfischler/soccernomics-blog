@@ -20,4 +20,8 @@ _General Notes:_
 
 The chapter mainly talks about trading / british soccer economics. for example it talks about when a team brings in a new manager possible things he/she does. it also focuses on the transfer market (page 24)
 
-overall this chapter is not really applicable to my project in data analytics but increased my knowledge of trading and soccer.
+# Bar chart showing players with the most minutes based on hair color
+
+- in the book it mentioned how coaches scout more blondes as they are easier to find on the field. i decided to make a chart showing members playing time based on hair color.
+
+![Bar Chart Showing players with the most minutes based on hair color](https://cloud-jbrxzu5ix-hack-club-bot.vercel.app/0screen_shot_2022-11-08_at_11.48.48_am.png)
