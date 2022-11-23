@@ -7,7 +7,6 @@ For my capstone project, I am combining my 2 passions: soccer and technology. I 
 ## Acknowledgements
 
  - [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
- 
 
 
 ## Deployment
@@ -33,11 +32,4 @@ I'm a junior at Geffen Academy at UCLA. I'm the president of my school's Nationa
 
 
 
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install
-```
     
