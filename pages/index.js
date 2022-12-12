@@ -5,8 +5,6 @@ import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
 
-
-
 const MAX_DISPLAY = 5
 
 export async function getStaticProps() {
