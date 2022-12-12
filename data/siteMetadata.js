@@ -2,7 +2,7 @@ const siteMetadata = {
   title: "Abby's Soccernomics Reading Blog",
   author: 'Abby Fischler',
   headerTitle: "Abby's Soccernomics Reading Blog",
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'My capstone project reading blog!',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
